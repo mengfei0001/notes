@@ -31,7 +31,7 @@ public class JssitTest {
         //oprProp();
         //构造器
         getCons();
-daas
+acv
     }
 
     private static void getCons() throws Exception {
