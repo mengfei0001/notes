@@ -33,4 +33,8 @@ public class Reflect {
     public void setAge(Integer age) {
         this.age = age;
     }
+
+    public void say(int a){
+        System.err.println("say ...."+a);
+    }
 }
