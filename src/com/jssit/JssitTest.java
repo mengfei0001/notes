@@ -31,7 +31,7 @@ public class JssitTest {
         //oprProp();
         //构造器
         getCons();
-        asdasdasd
+        pvq
     }
     private static void getCons() throws Exception {
         ClassPool pool = ClassPool.getDefault();
