@@ -31,9 +31,8 @@ public class JssitTest {
         //oprProp();
         //构造器
         getCons();
-        asd
+        asdasdasd
     }
-
     private static void getCons() throws Exception {
         ClassPool pool = ClassPool.getDefault();
         CtClass ctClass = pool.get("com.been.Reflect");
